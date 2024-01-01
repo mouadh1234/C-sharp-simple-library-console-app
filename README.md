@@ -1,4 +1,4 @@
-# Library simple project using visual studio 2022 and sql server 2019.
+# C-sharp Console application "simple Library management" developped by visual studio 2022 and sql server 2019.
 simple database named "Studying" with 2 tables named "Livres" and "Utilisateurs"
 CREATE TABLE Livres (
     livreId int NOT NULL IDENTITY PRIMARY KEY,
